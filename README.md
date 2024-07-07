@@ -53,6 +53,3 @@ To evaluate the trained agent:
 
 After training and evaluating the model, the README suggests calculating the average reward over all episodes to assess the agent's performance.
 
----
-
-This Markdown document provides a structured explanation of setting up the environment, implementing the A2C algorithm, training the agent, evaluating its performance, and interpreting results. Adjust the sections and details as per your actual implementation and any additional information you find relevant.
